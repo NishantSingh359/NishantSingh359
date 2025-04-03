@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-    <li>I’m currently working on <a href="https://holly-films-yhnkpgnfpub8kcev7azb67.streamlit.app/">Movie Recommendation</a></li>
+    <li>I’m currently working on <a href="/">SQL Advance Data Analytics Project</a></li>
     <li>How to reach me <strong>singhnishant414243@gmail.com</strong></li>
 </ul>
 
