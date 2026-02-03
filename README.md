@@ -8,7 +8,7 @@
 </p>
 
 <ul>
-    <li>I’m currently working on <a href="https://github.com/NishantSingh359/Python_Data_Warehouse">Python_Data_Warehouse</a></li>
+    <li>I’m currently working on <a href="https://github.com/NishantSingh359/Sales_Analytics">Sales_Analytics</a></li>
     <li>How to reach me <strong>singhnishant414243@gmail.com</strong></li>
 </ul>
 
