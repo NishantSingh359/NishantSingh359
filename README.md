@@ -15,7 +15,9 @@
 <h3 align="left">Connect me</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nishantsinghinfo" target="blank"><img align="center" src="https://github.com/user-attachments/assets/6136b65d-6093-47ad-808d-b4e6362fd515" alt="nishantsingh" height="40" width="40" /></a>
+<a href="https://www.kaggle.com/nishantsinghpro" target="blank"><img align="center" width="40" height="35" alt="image" src="https://github.com/user-attachments/assets/78c3f6f3-3aba-4a80-95f0-09ea6029f106" /></a>    
 </p>
+
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
