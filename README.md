@@ -1,5 +1,5 @@
 <h1 align="left"><span style="color:gray;">Hi, I'm</span> <span style="color:purple;">Nishant Singh</span></h1>
-<h3 align="left"><span style="color:purple;">I'm Data Analytics</span></h3>
+<h3 align="left"><span style="color:purple;">I'm studying Data Analytics.</span></h3>
 
 
 
